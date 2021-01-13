@@ -1,3 +1,8 @@
+//new bubble > body > box > text > button > button > button ครั
+//https://www.youtube.com/watch?v=wg3J7orpuGc&feature=youtu.be
+
+
+
 {
   "line": {
     "altText": "Flex Message",
